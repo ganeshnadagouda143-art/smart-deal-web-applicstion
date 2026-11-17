@@ -1,0 +1,6 @@
+{
+  "name": "SmartDeal",
+  "description": "SmartDeal — Negotiate Better. Buy Smarter. Save More. Product-based marketplace featuring direct price negotiation, bulk discounts, and group buying.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
